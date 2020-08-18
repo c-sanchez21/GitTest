@@ -1,3 +1,5 @@
-Test 1 Modified
+Test 1 Modified 
 Test 2 Modified from GitTest2
 Test 3
+Test 4 Added from GitTest2
+Test 5 Added from GitTest2
